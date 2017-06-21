@@ -24,3 +24,5 @@ for grades_i in range(n):
    grades.append(grades_t)
 result = solve(grades)
 print ("\n".join(map(str, result)))
+
+#Test
