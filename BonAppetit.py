@@ -1,5 +1,5 @@
 #!/bin/python3
-#test
+#testing
 import sys
 
 def bonAppetit(n, k, b, ar):
