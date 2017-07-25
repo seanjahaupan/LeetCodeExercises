@@ -1,5 +1,5 @@
 #!/bin/python3
-#see if it's the tallest candle
+#see if it's the tallest candle  
 
 import sys
 
