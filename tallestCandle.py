@@ -15,6 +15,7 @@ for candle in height:
     elif candle == tallestCandle:
         numberOfCandles += 1
         
+        
 print (numberOfCandles)  
 
 
