@@ -1,5 +1,5 @@
 #!/bin/python3
-import sys 
+import sys
 
 def divisibleSumPairs(n, k, ar):
     # Complete this function
