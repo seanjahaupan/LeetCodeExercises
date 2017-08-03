@@ -9,7 +9,6 @@ def divisibleSumPairs(n, k, ar):
                 count += 1
     return count
             
-
 n, k = input().strip().split(' ')
 n, k = [int(n), int(k)]
 ar = list(map(int, input().strip().split(' ')))
