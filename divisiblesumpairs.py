@@ -1,6 +1,5 @@
 #!/bin/python3
 import sys
-
 def divisibleSumPairs(n, k, ar):
     # Complete this function
     count = 0
