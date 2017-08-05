@@ -14,3 +14,4 @@ n, k = [int(n), int(k)]
 ar = list(map(int, input().strip().split(' ')))
 result = divisibleSumPairs(n, k, ar)
 print(result)
+
