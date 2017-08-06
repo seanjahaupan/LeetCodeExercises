@@ -1,6 +1,5 @@
 #CamelCase.py
 #!/bin/python3
-
 import sys
 
 
