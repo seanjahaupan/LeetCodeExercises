@@ -9,6 +9,7 @@ for char in s:
     if char.isupper():
         words += 1
         
+
 print(words)
 
 
