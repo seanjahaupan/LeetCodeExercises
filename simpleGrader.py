@@ -25,4 +25,5 @@ for grades_i in range(n):
 result = solve(grades)
 print ("\n".join(map(str, result)))
 
+
 #test
