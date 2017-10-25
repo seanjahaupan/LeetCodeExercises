@@ -11,4 +11,4 @@ height = list(map(int, input().strip().split(' ')))
 print(max(0,max(height) - k))
 
 
-#extra
+#ex
