@@ -14,3 +14,5 @@ print(max(0,max(height) - k))
 
 
 
+
+
