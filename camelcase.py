@@ -10,9 +10,3 @@ for char in s:
         
 print(words)
 
-
-
-
-
-
-
