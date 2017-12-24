@@ -23,5 +23,3 @@ s = list(map(int, input().strip().split(' ')))
 result = getRecord(s)
 print (" ".join(map(str, result)))
 
-
-
