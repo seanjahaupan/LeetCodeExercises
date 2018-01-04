@@ -24,4 +24,3 @@ result = getRecord(s)
 print (" ".join(map(str, result)))
 
 
-
