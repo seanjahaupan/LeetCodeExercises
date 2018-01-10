@@ -25,5 +25,3 @@ print (" ".join(map(str, result)))
 
 
 
-
-
