@@ -27,3 +27,4 @@ print(round(zeros / len(arr), 6))
 
 
 
+
